@@ -1,0 +1,1 @@
+the algorithm function is sourced from "Trasforming Geographic to Celestial Coordinates" by Michael McEllis

@@ -1,0 +1,39 @@
+1.  Seattle, Washington. 47.6062° N. 122.3321° W
+2.  Boise, Idaho. 43.6150° N. 116.2023° W
+3.  Helena, Montana. 46.5891° N. 112.0391° W
+4.  Saint Paul, Minessota. 44.9537° N. 93.0900° W
+5.  Madison, Wisconson. 43.0731° N. 89.4012° W
+6.  New York, New York. 40.7128° N. 74.0060° W
+7.  Augusta, Maine. 44.3106° N. 69.7795° W
+8.  Los-Angeles, California. 34.0522° N. 118.2437° W
+9.  Salt Lake City, Utah. 40.7608° N. 111.8910° W
+10. Topeka, Kansas. 39.0473° N. 95.6752° W
+11. Raleigh, North Carolina. 35.7796° N. 78.6382° W
+12. Austin, Texas. 30.2672° N. 97.7431° W
+13. Miami, Florida. 25.7617° N. 80.1918° W
+14. Bogota, Columbia. 4.7110° N. 74.0721° W
+15. Brasilia, Brazil 15.8267° S. 47.9218° W
+16. Buenos Aires, Argentina 34.6037° S. 58.3816° W
+17. En Nahud, Sudan 12.6948° N. 28.4280° E
+18. Agadez, Niger 16.9742° N. 7.9865° E
+19. Kiffa, Mauritana 16.8740° N. 11.4339° W
+20. Fes, Morocco 34.0181° N. 5.0078° W
+21. Gamba, Gabon 2.7405° S. 10.0304° E
+22. Kindu, Democratic Republic of the Congo 2.9492° S. 25.9231° E
+23. Namacunde, Angola 17.3082° S. 15.8452° E
+24. Lugela, Mozambique 16.3693° S. 36.7820° E
+25. Ihosy, Madagascar 22.4009° S. 46.1279° E
+26. Afif, Saudi Arabia 23.9052° N. 42.9125° E
+27. Buky, Ukraine 49.0945° N. 30.4051° E
+28. Paris, France 48.8566° N. 2.3522° E
+29. Bor, Russia 56.3588° N. 44.0767° E
+30. Nagpur, India 21.1458° N. 79.0882° E
+31. Naggu, Tibet 31.4762° N. 92.0512° E
+32. Bogd, Mongolia 44.6692° N. 102.1719° E
+33. Quanzhou, Fujian 24.8741° N. 118.6757° E
+34. Busan, South Korea 35.1796° N. 129.0756° E
+35. Nagoya, Japan 35.1814° N. 136.9064° E
+36. Kalgorie, Australia 30.7490° S. 121.4660° E
+37. Coober Pedy, South Australia. 29.0139° S. 134.7533° E
+38. Newman, Western Australia. 23.3593° S. 119.7350° E
+39. Sydney, Australia 33.8688° S. 151.2093° E
